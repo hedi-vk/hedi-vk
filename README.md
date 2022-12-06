@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hedi-vk
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning python.
 - 📫 How to reach me ...hedi.vk@gmail.com
 
 <!---
